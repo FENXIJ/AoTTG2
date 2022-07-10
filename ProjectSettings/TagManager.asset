@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - erenHitbox
+  - titan
+  - titanankle
+  - titanneck
+  - titaneye
+  - playerHitbox
+  - titanRespawn
+  - playerRespawn
+  - titanbodypart
+  - titanRespawn2
+  - route
+  - SoundTrigger
+  - AudioController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - EnemyBox
+  - EnemyAABB
+  - FX
+  - NetworkObject
+  - InnerContact
+  - noPhysics
+  - PlayerAttackBox
+  - PlayerHitBox
+  - EnemyAttackBox
+  - EnemyHitBox
+  - Interactable
+  - Minimap
+  - TitanDetection
+  - MapEditor
+  - Moon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

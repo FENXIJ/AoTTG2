@@ -1,0 +1,28 @@
+{
+    "name": "AoTTG2.Core",
+    "rootNamespace": "",
+    "references": [
+        "PhotonUnityNetworking",
+        "Discord",
+        "Unity.TextMeshPro",
+        "UnityEditor.UI",
+        "UnityEngine.UI",
+        "Toorah.ScribtableVariables",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.Localization",
+        "Unity.ResourceManager",
+        "LeanTween",
+        "MeleeWeaponTrail",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.Postprocessing.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
